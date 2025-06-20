@@ -165,7 +165,8 @@ pip install streamlit requests streamlit-lottie
 3. Run the chatbot:
 
 ```bash
-streamlit run Task4_Health_Chatbot.py
+streamlit run (directory for python file)
+
 ```
 
 ---
